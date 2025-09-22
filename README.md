@@ -6,6 +6,6 @@ Gaze-based cursor movement using webcam feed with OpenCV and MediaPipe for facia
 Blink-to-click activation via PyAutoGUI
 No additional hardware required—uses just a standard webcam
 🛠️ Tech Stack
-opencv-python – for camera capture and image processing
-mediapipe – for real-time face and eye landmark detection
-pyautogui – to map eye movements and blink actions to mouse controls
+opencv-python – for camera capture and image processing.
+mediapipe – for real-time face and eye landmark detection.
+pyautogui – to map eye movements and blink actions to mouse controls.
